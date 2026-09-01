@@ -1,0 +1,39 @@
+# Virtual environments
+.voice/
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large audio files
+*.mp3
+*.wav
+*.flac
+*.m4a
+
+# Temporary files
+*.tmp
+*.log
+
+
+# For API requests (Deepgram, OpenAI TTS, ElevenLabs)
+*.requests
+
+# For local Whisper STT (System B)
+*.openai-whisper
+

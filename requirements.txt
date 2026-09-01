@@ -1,0 +1,6 @@
+# For API requests (Deepgram, OpenAI TTS, ElevenLabs)
+requests
+
+# For local Whisper STT (System B)
+openai-whisper
+
